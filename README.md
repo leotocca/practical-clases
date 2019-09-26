@@ -1,3 +1,3 @@
 # practical-clases
 
-Exercises done on special practical clases from @undefinedSchool
+Exercises done on special practical clases from undefinedSchool
